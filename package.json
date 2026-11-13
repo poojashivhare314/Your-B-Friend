@@ -1,0 +1,1 @@
+{"name":"your-b-friend","private":true,"scripts":{"server":"node apps/server/server.js","web":"npm --prefix apps/client run web","android":"npm --prefix apps/client run android","ios":"npm --prefix apps/client run ios"}}

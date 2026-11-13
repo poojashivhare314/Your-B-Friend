@@ -1,0 +1,18 @@
+[
+ {"id":"seed-palpasacafe","title":"Palpasa Café","author":"Narayan Wagle","genres":["Fiction","Nepali Literature"],"region":"Nepal","isbn":"9789937219126"},
+ {"id":"seed-karnali","title":"Karnali Blues","author":"Buddhisagar","genres":["Fiction","Nepali Literature"],"region":"Nepal","isbn":"9789937660591"},
+ {"id":"seed-muna","title":"Muna Madan","author":"Laxmi Prasad Devkota","genres":["Poetry","Nepali Literature"],"region":"Nepal","isbn":"9789937904138"},
+ {"id":"seed-setodharti","title":"Seto Dharti","author":"Amar Neupane","genres":["Fiction","Nepali Literature"],"region":"Nepal","isbn":"9789937249000"},
+ {"id":"seed-shirish","title":"Shirishko Phool","author":"Parijat","genres":["Fiction","Nepali Literature"],"region":"Nepal","isbn":"9789937907146"},
+ {"id":"seed-god","title":"The God of Small Things","author":"Arundhati Roy","genres":["Fiction","Indian Literature"],"region":"India","isbn":"9780812979657"},
+ {"id":"seed-midnight","title":"Midnight's Children","author":"Salman Rushdie","genres":["Fiction","Indian Literature"],"region":"India","isbn":"9780812976533"},
+ {"id":"seed-malgudi","title":"Malgudi Days","author":"R. K. Narayan","genres":["Fiction","Indian Literature"],"region":"India","isbn":"9780143039655"},
+ {"id":"seed-train","title":"The White Tiger","author":"Aravind Adiga","genres":["Fiction","Indian Literature"],"region":"India","isbn":"9781416562603"},
+ {"id":"seed-wings","title":"Wings of Fire","author":"A. P. J. Abdul Kalam","genres":["Biography","Indian Literature"],"region":"India","isbn":"9788173711466"},
+ {"id":"seed-atomic","title":"Atomic Habits","author":"James Clear","genres":["Self-Help"],"region":"Global","isbn":"9780735211292"},
+ {"id":"seed-dune","title":"Dune","author":"Frank Herbert","genres":["Fiction","Sci-Fi"],"region":"Global","isbn":"9780441172719"},
+ {"id":"seed-pride","title":"Pride and Prejudice","author":"Jane Austen","genres":["Fiction","Romance"],"region":"Global","isbn":"9780141439518"},
+ {"id":"seed-sapiens","title":"Sapiens","author":"Yuval Noah Harari","genres":["History","Nonfiction"],"region":"Global","isbn":"9780062316097"},
+ {"id":"seed-seven","title":"The Seven Husbands of Evelyn Hugo","author":"Taylor Jenkins Reid","genres":["Fiction","Romance"],"region":"Global","isbn":"9781501161933"},
+ {"id":"seed-alchemist","title":"The Alchemist","author":"Paulo Coelho","genres":["Fiction"],"region":"Global","isbn":"9780062315007"}
+]

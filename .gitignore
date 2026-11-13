@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+*.db
+*.db-shm
+*.db-wal
+dist/
+.env
+.env.*
+!.env.example
